@@ -1,0 +1,13 @@
+{
+  "name": "asdfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "a": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "random-puppy": "^1.1.0"
+  }
+}
